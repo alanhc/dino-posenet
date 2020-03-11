@@ -12,4 +12,4 @@ or...
 3. open browser: http://localhost:8080/
 
 ## Screenshot
-![](img/screen.gif)
+![](img/Screen.gif)
