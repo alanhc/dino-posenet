@@ -1,5 +1,8 @@
-#dino-posenet
+# dino-posenet
+## Screenshot
+![](img/Screen.gif)
 
+## Video
 [![dino-posenet](http://img.youtube.com/vi/rE01xxdUTdY/0.jpg)](https://youtu.be/rE01xxdUTdY)
 
 ## How to run
@@ -11,5 +14,4 @@ or...
 2. open terminal and type: `python -m http.server 8080`
 3. open browser: http://localhost:8080/
 
-## Screenshot
-![](img/Screen.gif)
+
