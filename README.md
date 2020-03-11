@@ -6,7 +6,7 @@
 [![dino-posenet](http://img.youtube.com/vi/rE01xxdUTdY/0.jpg)](https://youtu.be/rE01xxdUTdY)
 
 ## How to run
-just play at  https://alanhc.github.io/dino-posenet/
+just play at  http://alanhc.nctu.me/dino-posenet/
 
 or...
 
