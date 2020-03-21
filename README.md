@@ -1,6 +1,6 @@
 dino-posenet
 =====
-此專案修改自 [Chrome小恐龍(t-rex-runner)](https://github.com/wayou/t-rex-runner) 的 source code, [ml5.js](https://ml5js.org/)的 [PoseNet](https://learn.ml5js.org/docs/#/reference/posenet) 及利用 [p5.js](https://p5js.org/) 的 [p5.Vector](https://p5js.org/reference/#/p5.Vector) 計算姿態。點選 [demo](https://alanhc.nctu.me/dino-posenet/) 或點選以下[video](https://youtu.be/rE01xxdUTdY)可以查看此:
+此專案修改自 [Chrome小恐龍(t-rex-runner)](https://github.com/wayou/t-rex-runner) 的 source code, [ml5.js](https://ml5js.org/)的 [PoseNet](https://learn.ml5js.org/docs/#/reference/posenet) 及利用 [p5.js](https://p5js.org/) 的 [p5.Vector](https://p5js.org/reference/#/p5.Vector) 計算姿態。點選[ demo ](https://alanhc.nctu.me/dino-posenet/) 或點選以下[ video ](https://youtu.be/rE01xxdUTdY)可以查看此:
 ## Video
 [![dino-posenet](img/Screen.gif)](https://youtu.be/rE01xxdUTdY)
 
