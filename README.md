@@ -5,7 +5,7 @@ dino-posenet
 [![dino-posenet](img/Screen.gif)](https://youtu.be/rE01xxdUTdY)
 
 ## How to run
-just play at  https://alanhc.nctu.me/dino-posenet/
+just play at  https://alanhc.tw/dino-posenet/
 
 or...
 
